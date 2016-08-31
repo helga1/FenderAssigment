@@ -27,7 +27,13 @@ How to run test locally:
 
 
 
-If i had more time
+If i had more time: 
+1Create all customize Xpath's for every element (this time I also customized Xpath's but not for every element).
+2Consider to use CSS, id or other lightweight locators in some cases, in order to speed up the test execution.
+3Write comment for every step of the test case.
+4It is good practice to use page object pattern instead hard coding.
+
+
 
 
 
