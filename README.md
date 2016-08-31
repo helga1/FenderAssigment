@@ -1,21 +1,9 @@
 # FenderAssigment
 
 dependencies:
-        `<dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-chrome-driver</artifactId>
-            <version>2.27.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-support</artifactId>
-            <version>2.27.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-firefox-driver</artifactId>
-            <version>2.27.0</version>
-        </dependency>`
+* org.seleniumhq.selenium selenium-chrome-driver 2.27.0
+* org.seleniumhq.selenium selenium-support 2.27.0
+* org.seleniumhq.selenium selenium-firefox-driver 2.27.0
         
 Dependencies can be installed automatically by maven.
 
