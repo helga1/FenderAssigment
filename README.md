@@ -1,7 +1,7 @@
 # FenderAssigment
 
 dependencies:
-        <dependency>
+        `<dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
             <version>2.27.0</version>
@@ -15,7 +15,7 @@ dependencies:
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-firefox-driver</artifactId>
             <version>2.27.0</version>
-        </dependency>
+        </dependency>`
         
 Dependencies can be installed automatically by maven.
 
