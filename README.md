@@ -27,7 +27,7 @@ How to run test locally:
 
 
 
-If i had more time:
+If i had more time
 
 
 
