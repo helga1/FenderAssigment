@@ -33,6 +33,7 @@ If I had more time:
 
 Fender (AMERICAN ELITE STRATOCASTER® HSS SHAWBUCKER)
 http://shop.fender.com/en-US/electric-guitars/stratocaster/american-elite-stratocaster-hss-shawbucker/0114110723.html
+
 1. ‘Fender logo’ button. Button should lead user to the home page.
 2. ‘Facebook’ button. The result of the clicking on this button depends of the precondition:
     IF user is logged in to Facebook- Then ‘Share on Facebook’ window appears (with guitar picture    +info), user can have access to ‘Share on your timeline’, ‘Post on Facebook’ and ‘Cancel buttons.
