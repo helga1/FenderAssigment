@@ -48,8 +48,8 @@ http://shop.fender.com/en-US/electric-guitars/stratocaster/american-elite-strato
 7. When user hover over the image (main or image, that was chosen from the image carousel), the picture zooms.
 8. ‘Add to card’ button allows user to add the item to the shopping cart. Once it is added, the ‘view cart’ drops down appears, and user can see the details (name, price, quantity, image that appears with chosen materials and color, model info such as color and fingerboard material)
 9. ‘Add to wish list’. The behavior of this button depends of 2 conditions.
-IF user does not logged in or does not have an account. Than the ‘Add to wish list’ button leads to the window, where user can log in or create an account (buy clicking on ‘Create an account’ button) before he can add something into wish list.
-IF user is have an account and is logged in, the ‘Add to wish list’ button leads to the ‘wish list’ page, where user sees that particular guitar is added to. 
+    * IF user does not logged in or does not have an account. Than the ‘Add to wish list’ button leads to the window, where user can log in or create an account (buy clicking on ‘Create an account’ button) before he can add something into wish list.
+    * IF user is have an account and is logged in, the ‘Add to wish list’ button leads to the ‘wish list’ page, where user sees that particular guitar is added to. 
 10. ‘Play one’ button make the modal window appear, where user can search the dealer by city of zip code or can click ‘use my current location’ button. 
 11. Image carousel. User can look over the images (left or right) by clicking the arrow buttons.
 12. Image carousel.  If user clicked on particular image within this section, the corresponding image as the main image.
