@@ -61,19 +61,5 @@ public class Checkout {
 
         //Verify that we are in the right page
         System.out.println(driver.findElement(By.id("dwfrm_billing_paymentMethods_creditCard_owner")).isDisplayed());
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
 }
